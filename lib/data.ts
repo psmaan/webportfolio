@@ -19,7 +19,7 @@ export const MY_STACK = {
     languages: [
         {
             name: 'Python',
-            icon: '/logo/python.svg',
+            icon: '/logo/python.png',
         },
         {
             name: 'JavaScript',
@@ -31,7 +31,7 @@ export const MY_STACK = {
         },
         {
             name: 'Java',
-            icon: '/logo/java.svg',
+            icon: '/logo/java.png',
         },
         {
             name: 'SQL',
@@ -50,10 +50,6 @@ export const MY_STACK = {
         {
             name: 'Tailwind CSS',
             icon: '/logo/tailwind.png',
-        },
-        {
-            name: 'Sass',
-            icon: '/logo/sass.png',
         },
         {
             name: 'Framer Motion',
@@ -75,7 +71,7 @@ export const MY_STACK = {
         },
         {
             name: 'Flask',
-            icon: '/logo/flask.png',
+            icon: '/logo/flask.webp',
         },
         {
             name: 'FastAPI',
@@ -96,10 +92,10 @@ export const MY_STACK = {
             icon: '/logo/mongodb.svg',
         },
     ],
-    ml_data_science: [
+    ML: [
         {
             name: 'NumPy',
-            icon: '/logo/numpy.svg',
+            icon: '/logo/numpy.png',
         },
         {
             name: 'Pandas',
@@ -107,18 +103,14 @@ export const MY_STACK = {
         },
         {
             name: 'Scikit-learn',
-            icon: '/logo/scikit-learn.svg',
-        },
-        {
-            name: 'Matplotlib',
-            icon: '/logo/matplotlib.svg',
+            icon: '/logo/sscikit-learn.png',
         },
         {
             name: 'Jupyter Notebook',
-            icon: '/logo/jupyter.svg',
+            icon: '/logo/jupyter.png',
         },
     ],
-    tools_devops: [
+    tools: [
         {
             name: 'Git',
             icon: '/logo/git.png',
@@ -128,16 +120,12 @@ export const MY_STACK = {
             icon: '/logo/docker.svg',
         },
         {
-            name: 'Vercel',
-            icon: '/logo/vercel.svg',
-        },
-        {
             name: 'AWS',
             icon: '/logo/aws.png',
         },
         {
             name: 'Postman',
-            icon: '/logo/postman.svg',
+            icon: '/logo/postman.webp',
         },
     ],
 };
